@@ -1,0 +1,5 @@
+name: 'CISC'
+description: 'Continuous Integration Smell Checker Action'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
